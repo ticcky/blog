@@ -4,7 +4,7 @@ disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 #Comment out url when working locally to resolve base urls correctly
-url:              http://ticcky.github.io/blog/
+url:              http://ticcky.github.io/blog
 
 # Owner/author information
 owner:
